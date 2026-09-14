@@ -40,7 +40,7 @@ Data engineering pipeline that processes cardiac patient data and applies Logist
 
 ```bash
 # Clone repo
-git clone https://github.com/your-username/heart-disease-prediction.git
+git clone https://github.com/pfcperez/heart-disease-prediction.git
 cd heart-disease-prediction
 
 # Create virtual environment
@@ -50,9 +50,6 @@ source venv/bin/activate
 # Install dependencies
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
-# Download data
-# Kaggle: Heart Disease Cleveland Dataset
-# Place Heart_disease_cleveland_new.csv in /data/raw/
 ```
 
 ---
